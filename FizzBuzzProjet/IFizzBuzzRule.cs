@@ -9,6 +9,6 @@ namespace FizzBuzzProjet
     public interface IFizzBuzzRule
     {
         bool IsMatch(int number);
-        string GetResult(int number);
+        string GetResult(int number); //
     }
 }

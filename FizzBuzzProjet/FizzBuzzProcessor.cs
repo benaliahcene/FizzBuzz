@@ -14,7 +14,7 @@ namespace FizzBuzzProjet
         public FizzBuzzProcessor(IEnumerable<IFizzBuzzRule> rules)
         {
             _rules = rules;
-        }
+        } //
 
         public string Process(int number)
         {

@@ -9,6 +9,6 @@ namespace FizzBuzzProjet
     public class DefaultRule : IFizzBuzzRule
     {
         public bool IsMatch(int number) => true;
-        public string GetResult(int number) => number.ToString();
+        public string GetResult(int number) => number.ToString(); //
     }
 }

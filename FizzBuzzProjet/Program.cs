@@ -8,7 +8,7 @@
             {
                 new FizzBuzzRule(),
                 new FizzRule(),
-                new BuzzRule(),
+                new BuzzRule(), //
                 new DefaultRule()
             };
 
