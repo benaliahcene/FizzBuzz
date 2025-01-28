@@ -1,0 +1,14 @@
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\bin\Debug\net7.0\FizzBuzzProjet.exe
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\bin\Debug\net7.0\FizzBuzzProjet.deps.json
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\bin\Debug\net7.0\FizzBuzzProjet.runtimeconfig.json
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\bin\Debug\net7.0\FizzBuzzProjet.dll
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\bin\Debug\net7.0\FizzBuzzProjet.pdb
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\obj\Debug\net7.0\FizzBuzzProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\obj\Debug\net7.0\FizzBuzzProjet.AssemblyInfoInputs.cache
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\obj\Debug\net7.0\FizzBuzzProjet.AssemblyInfo.cs
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\obj\Debug\net7.0\FizzBuzzProjet.csproj.CoreCompileInputs.cache
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\obj\Debug\net7.0\FizzBuzzProjet.dll
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\obj\Debug\net7.0\refint\FizzBuzzProjet.dll
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\obj\Debug\net7.0\FizzBuzzProjet.pdb
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\obj\Debug\net7.0\FizzBuzzProjet.genruntimeconfig.cache
+C:\Users\Ahcene Benali\Desktop\FizzBuzz_\FizzBuzzProjet\obj\Debug\net7.0\ref\FizzBuzzProjet.dll
